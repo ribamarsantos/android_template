@@ -15,7 +15,7 @@ It was created based on EmptyActivity. Android Studio Version: 2.1.1
 The main idea is to make easier and simple the use of DataBinding with Android,
 since it's not default yet :D
 This is the first version and it's not included the Gradle Dependencie( yet). :D so just copy:
-[source,groovy]
+
 ----
  dataBinding{
      
