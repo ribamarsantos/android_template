@@ -8,12 +8,12 @@ Android templates are generated with FreeMaker. You can learn more about it here
 http://goo.gl/D1Xesa
 
 
-There is a folder with all templates using a .ftl(FreeMaker Template FIle) extension.
+There is a folder with all templates using a .ftl(FreeMaker Template FIle) extension. :ok_hand:
 This templated was created based on this tutorial : http://goo.gl/VLccNd
 
 It was created based on EmptyActivity. Android Studio Version: 2.1.1 
 The main idea is to make easier and simple the use of DataBinding with Android,
-since it's not default yet :D
+since it's not default yet :confused:
 This is the first version and it's not included the Gradle Dependencie( yet). :D so just copy:
 
 ----
@@ -39,7 +39,7 @@ Follow this steps:
     path-to-your-installation-android-studio-folder\plugins\android\lib\templates\activities\common\root\res\layout
     i.e. Windows(C:\Program Files\Android\Android Studio\plugins\android\lib\templates\activities\common\root\res\layout)
 5.  It's Done. Enjoy DataBinding.
-6.  Create a project using  DataBindingEmptyActivity or Add a new Activity to your project
+6.  Create a project using  DataBindingEmptyActivity or Add a new Activity to your project :metal:
 
 	
 	
