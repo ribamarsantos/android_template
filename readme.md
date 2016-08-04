@@ -23,18 +23,18 @@ I hope it can help you starting faster your jobs with DataBinding.
 
 Follow this steps:
 
-1- Close you Android-Studio
-2- Copy the Folder DataBindingEmptyActivity into :
+*1- Close you Android-Studio
+*2- Copy the Folder DataBindingEmptyActivity into :
     path-to-your-installation-android-studio-folder\plugins\android\lib\templates\activities
 	i.e Windows ( C:\Program Files\Android\Android Studio\plugins\android\lib\templates\activities )
-3 - Copy recipe_simple_data_binding.xml.ftl into: 
+*3 - Copy recipe_simple_data_binding.xml.ftl into: 
     path-to-your-installation-android-studio-folder\plugins\android\lib\templates\activities\common 
     i.e. Windows(C:\Program Files\Android\Android Studio\plugins\android\lib\templates\activities\common)	
-4 - Copy simple_data_binding.xml.ftl into:
+*4 - Copy simple_data_binding.xml.ftl into:
     path-to-your-installation-android-studio-folder\plugins\android\lib\templates\activities\common\root\res\layout
     i.e. Windows(C:\Program Files\Android\Android Studio\plugins\android\lib\templates\activities\common\root\res\layout)
-5 - It's Done. Enjoy DataBinding.
-6 - Create a project using  DataBindingEmptyActivity or Add a new Activity to your project
+*5 - It's Done. Enjoy DataBinding.
+*6 - Create a project using  DataBindingEmptyActivity or Add a new Activity to your project
 
 	
 	
